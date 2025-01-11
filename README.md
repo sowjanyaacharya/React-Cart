@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # React-Cart
-This is Basic React Cart app which is implemented by using UseContext 
+This is Basic React Cart app which is implemented by using UseContext and maintained the states 
 
